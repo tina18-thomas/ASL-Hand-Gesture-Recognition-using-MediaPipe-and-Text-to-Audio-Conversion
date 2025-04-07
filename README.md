@@ -38,5 +38,4 @@ This project aims to help bridge the communication gap for the hearing- and spee
 
 ---
 
-## 📂 Folder Structure
 
